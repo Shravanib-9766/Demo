@@ -1,4 +1,4 @@
 # Demo
 My first Git Repository...
 <br>
-Author-Shravani Bhosale
+<i>Author-Shravani Bhosale</i>
